@@ -1,4 +1,4 @@
 # HTML-CSS-Main-Project
 
 ## Hosted Link:
-    https://lucky-queijadas-ff24f9.netlify.app
+    https://gleaming-zabaione-1c2d94.netlify.app/
